@@ -1,0 +1,22 @@
+{
+  "name": "git-hub-angular",
+  "version": "0.0.0",
+  "homepage": "https://github.com/kierangoodacre/git-hub-angular",
+  "authors": [
+    "kierangoodacre <k.goodacre@hotmail.co.uk>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "bootstrap": "~3.3.4",
+    "angular": "~1.3.14",
+    "angular-resource": "~1.3.14"
+  }
+}
